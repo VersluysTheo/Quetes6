@@ -1,0 +1,30 @@
+/* navbar */
+.navbar-text{
+    color: white;
+}
+
+.navbar-brand .img{
+    position: absolute;
+}
+
+/* Card et textes */
+
+.Grand{
+    height: 150px;
+    background-color: #EBEBEB;
+}
+
+.About, .Skills, .Project{
+    background-color: #FCFCFC;
+    color: black;
+}
+
+/* Test couleur */
+Test{
+    background-color:
+    #141E32
+    #FCFCFC
+    #000000
+    #0084FF
+    #EBEBEB;
+}
